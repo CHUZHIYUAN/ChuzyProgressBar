@@ -168,6 +168,7 @@ public class ChuzyProgressBar extends View {
             paint.setColor(progressColor);
             paint.setStyle(Paint.Style.FILL);
             paint.setAntiAlias(true);  //消除锯齿
+            Log.d("TAG", "pointX = " + pointX + "||pointY = " + pointY);
             canvas.drawCircle(pointX, pointY, centre - radius, paint);
         }
 
