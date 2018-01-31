@@ -192,6 +192,7 @@ public class ChuzyProgressBar extends View {
         }
     }
 
+    //增长值动画
     public void setProgressWithAnimation(int curProgress) {
         this.curProgress = curProgress;
         final ValueAnimator animator = ValueAnimator.ofInt(0, curProgress);
