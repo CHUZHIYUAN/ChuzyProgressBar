@@ -264,6 +264,7 @@ public class ChuzyProgressBar extends View {
     public synchronized int getProgress() {
         return curProgress;
     }
+    // case
 
 
 }
