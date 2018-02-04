@@ -13,10 +13,4 @@ public class Test {
     private void testChaFen(){
         
     }
-
-
-
-    private void soure(){
-
-    }
 }
