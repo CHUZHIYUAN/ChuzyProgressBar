@@ -9,7 +9,6 @@ import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
 
-//    private ChuzyProgressBar progressBar1;
     private ChuzyProgressBar progress;
     private ChuzyProgressBar progress2;
     private Button btn;
