@@ -17,4 +17,8 @@ public class Test {
     private void uuuu(){
         
     }
+
+    private void erwer(){
+        
+    }
 }
